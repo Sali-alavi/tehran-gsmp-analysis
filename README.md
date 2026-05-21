@@ -40,3 +40,18 @@ Install dependencies with:
 
 ```bash
 python -m pip install -r requirements.txt
+
+## Output
+The script prints:
+
+Gini coefficients
+Wilcoxon signed-rank test results
+Pearson correlation results
+It also saves:
+
+Lorenz_Curves_BAF_CCI.png
+Reproducibility note
+This repository contains the analysis code and embedded summary data used for the statistical evaluation. It is intended to support transparency and reproducibility of the reported results.
+
+Citation
+If you use this code, please cite the associated article and the archived software release/DOI if available.
