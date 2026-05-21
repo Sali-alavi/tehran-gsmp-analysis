@@ -33,14 +33,6 @@ Variables included in the script:
 - CCI under LULC-current condition
 - CCI under GSMP scenario
 - Urban density proxy (neighborhoods per hectare)
-
-## Requirements
-
-Install dependencies with:
-
-```bash
-python -m pip install -r requirements.txt
-
 ## Output
 The script prints:
 
@@ -55,3 +47,12 @@ This repository contains the analysis code and embedded summary data used for th
 
 Citation
 If you use this code, please cite the associated article and the archived software release/DOI if available.
+
+## Requirements
+
+Install dependencies with:
+
+```bash
+python -m pip install -r requirements.txt
+
+
